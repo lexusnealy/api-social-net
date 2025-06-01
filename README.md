@@ -1,7 +1,5 @@
 # api-social-net
 
-# media-socializer
-
 ## Description
 This project is a RESTful API for a social network web application built with Express.js, MongoDB, and Mongoose. It allows users to share thoughts, react to friends' thoughts, and manage friend lists.
 
@@ -22,7 +20,7 @@ This project is a RESTful API for a social network web application built with Ex
 1. Clone the repository:
 
    ```bash
-   git clone <media-socializer>
+   git clone <api-social-net>
 
 ## Usage
 Starting the Application
